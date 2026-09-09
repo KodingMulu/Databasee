@@ -1,0 +1,282 @@
+{
+  "description": "Data Reset Season Rank & Minimal Score Rank Free Fire",
+  "season_reset_tiers": [
+    {
+      "min_score": 1000,
+      "max_score": 1299,
+      "current_rank": "BRONZE I - III",
+      "reset_min_score": 1000,
+      "reset_rank": "BRONZE I"
+    },
+    {
+      "min_score": 1300,
+      "max_score": 1399,
+      "current_rank": "BRONZE III - SILVER I",
+      "reset_min_score": 1310,
+      "reset_rank": "SILVER I"
+    },
+    {
+      "min_score": 1400,
+      "max_score": 1499,
+      "current_rank": "SILVER I - II",
+      "reset_min_score": 1410,
+      "reset_rank": "SILVER II"
+    },
+    {
+      "min_score": 1500,
+      "max_score": 1599,
+      "current_rank": "SILVER II - III",
+      "reset_min_score": 1510,
+      "reset_rank": "SILVER III"
+    },
+    {
+      "min_score": 1600,
+      "max_score": 1724,
+      "current_rank": "SILVER III - GOLD I",
+      "reset_min_score": 1530,
+      "reset_rank": "SILVER III"
+    },
+    {
+      "min_score": 1725,
+      "max_score": 1849,
+      "current_rank": "GOLD I - II",
+      "reset_min_score": 1570,
+      "reset_rank": "SILVER III"
+    },
+    {
+      "min_score": 1850,
+      "max_score": 1974,
+      "current_rank": "GOLD II - III",
+      "reset_min_score": 1610,
+      "reset_rank": "GOLD I"
+    },
+    {
+      "min_score": 1975,
+      "max_score": 2099,
+      "current_rank": "GOLD III - IV",
+      "reset_min_score": 1650,
+      "reset_rank": "GOLD I"
+    },
+    {
+      "min_score": 2100,
+      "max_score": 2224,
+      "current_rank": "GOLD IV - PLATINUM I",
+      "reset_min_score": 1690,
+      "reset_rank": "GOLD I"
+    },
+    {
+      "min_score": 2225,
+      "max_score": 2349,
+      "current_rank": "PLATINUM I - II",
+      "reset_min_score": 1735,
+      "reset_rank": "GOLD I"
+    },
+    {
+      "min_score": 2350,
+      "max_score": 2474,
+      "current_rank": "PLATINUM II - III",
+      "reset_min_score": 1775,
+      "reset_rank": "GOLD II"
+    },
+    {
+      "min_score": 2475,
+      "max_score": 2599,
+      "current_rank": "PLATINUM III - IV",
+      "reset_min_score": 1815,
+      "reset_rank": "GOLD II"
+    },
+    {
+      "min_score": 2600,
+      "max_score": 2749,
+      "current_rank": "PLATINUM IV - V",
+      "reset_min_score": 1860,
+      "reset_rank": "GOLD III"
+    },
+    {
+      "min_score": 2750,
+      "max_score": 2899,
+      "current_rank": "PLATINUM V - DIAMOND I",
+      "reset_min_score": 1900,
+      "reset_rank": "GOLD III"
+    },
+    {
+      "min_score": 2900,
+      "max_score": 3049,
+      "current_rank": "DIAMOND I - II",
+      "reset_min_score": 1940,
+      "reset_rank": "GOLD IV"
+    },
+    {
+      "min_score": 3050,
+      "max_score": 3199,
+      "current_rank": "DIAMOND II - III",
+      "reset_min_score": 1985,
+      "reset_rank": "GOLD IV"
+    },
+    {
+      "min_score": 3200,
+      "max_score": 3349,
+      "current_rank": "DIAMOND III - IV",
+      "reset_min_score": 2025,
+      "reset_rank": "GOLD IV"
+    },
+    {
+      "min_score": 3350,
+      "max_score": 3499,
+      "current_rank": "DIAMOND IV - V",
+      "reset_min_score": 2065,
+      "reset_rank": "GOLD IV"
+    },
+    {
+      "min_score": 3500,
+      "max_score": 3799,
+      "current_rank": "DIAMOND V - HEROIC",
+      "reset_min_score": 2110,
+      "reset_rank": "PLATINUM I"
+    },
+    {
+      "min_score": 3800,
+      "max_score": 4299,
+      "current_rank": "HEROIC",
+      "reset_min_score": 2235,
+      "reset_rank": "PLATINUM II"
+    },
+    {
+      "min_score": 4300,
+      "max_score": 4899,
+      "current_rank": "HEROIC - ELITE HEROIC",
+      "reset_min_score": 2360,
+      "reset_rank": "PLATINUM III"
+    },
+    {
+      "min_score": 4900,
+      "max_score": 5499,
+      "current_rank": "ELITE HEROIC",
+      "reset_min_score": 2485,
+      "reset_rank": "PLATINUM IV"
+    },
+    {
+      "min_score": 5500,
+      "max_score": 6299,
+      "current_rank": "ELITE HEROIC",
+      "reset_min_score": 2610,
+      "reset_rank": "PLATINUM V"
+    },
+    {
+      "min_score": 6300,
+      "max_score": 7099,
+      "current_rank": "ELITE HEROIC - MASTER",
+      "reset_min_score": 2760,
+      "reset_rank": "DIAMOND I"
+    },
+    {
+      "min_score": 7100,
+      "max_score": 7999,
+      "current_rank": "MASTER",
+      "reset_min_score": 2830,
+      "reset_rank": "DIAMOND I"
+    },
+    {
+      "min_score": 8000,
+      "max_score": 8999,
+      "current_rank": "MASTER - ELITE MASTER",
+      "reset_min_score": 2910,
+      "reset_rank": "DIAMOND II"
+    },
+    {
+      "min_score": 9000,
+      "max_score": 9999,
+      "current_rank": "ELITE MASTER",
+      "reset_min_score": 3060,
+      "reset_rank": "DIAMOND III"
+    },
+    {
+      "min_score": 10000,
+      "max_score": 11999,
+      "current_rank": "ELITE MASTER",
+      "reset_min_score": 3210,
+      "reset_rank": "DIAMOND IV"
+    },
+    {
+      "min_score": 12000,
+      "max_score": 999999,
+      "current_rank": "ELITE MASTER",
+      "reset_min_score": 3360,
+      "reset_rank": "DIAMOND V"
+    }
+  ],
+  "rank_minimum_scores": [
+    {
+      "rank": "BRONZE I",
+      "min_score": 1000
+    },
+    {
+      "rank": "SILVER I",
+      "min_score": 1310
+    },
+    {
+      "rank": "SILVER II",
+      "min_score": 1410
+    },
+    {
+      "rank": "SILVER III",
+      "min_score": 1510
+    },
+    {
+      "rank": "GOLD I",
+      "min_score": 1610
+    },
+    {
+      "rank": "GOLD II",
+      "min_score": 1775
+    },
+    {
+      "rank": "GOLD III",
+      "min_score": 1860
+    },
+    {
+      "rank": "GOLD IV",
+      "min_score": 1940
+    },
+    {
+      "rank": "PLATINUM I",
+      "min_score": 2110
+    },
+    {
+      "rank": "PLATINUM II",
+      "min_score": 2235
+    },
+    {
+      "rank": "PLATINUM III",
+      "min_score": 2360
+    },
+    {
+      "rank": "PLATINUM IV",
+      "min_score": 2485
+    },
+    {
+      "rank": "PLATINUM V",
+      "min_score": 2610
+    },
+    {
+      "rank": "DIAMOND I",
+      "min_score": 2760
+    },
+    {
+      "rank": "DIAMOND II",
+      "min_score": 2910
+    },
+    {
+      "rank": "DIAMOND III",
+      "min_score": 3060
+    },
+    {
+      "rank": "DIAMOND IV",
+      "min_score": 3210
+    },
+    {
+      "rank": "DIAMOND V",
+      "min_score": 3360
+    }
+  ]
+}
